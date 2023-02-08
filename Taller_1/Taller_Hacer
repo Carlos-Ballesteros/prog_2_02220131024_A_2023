@@ -1,0 +1,10 @@
+    
+    1. ingresar una palabra y por consola imprimir su reverso. +++
+    2. generar una cantidad random de numeros entre 0 y 24 y calcular media moda y promedio +++
+        
+    3. crear un rango entre 1 y 23, luego generar un valor aleatorio, 
+       - luego con el número indicado se deben generar espacios para crear los productos luego lo mismo con cantidad, 
+       - precio y costo de último imprimir por consola en orden como se pidió.
+    4. obtener 5 palabras
+            - hacer un crucigrama usando la primera palabra como raiz y ver si las otras palabras calzan
+    
