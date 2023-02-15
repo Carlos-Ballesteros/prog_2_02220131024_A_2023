@@ -10,7 +10,8 @@ Taller 1
 <li>Punto 2: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller2.java</li>
 
 <br>
-Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller3.java
+<li>Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller3.java</li>
 
 <br>
-Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller4.java
+<li>Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller4.java</li>
+
