@@ -9,3 +9,7 @@ Taller 1 (Hecho con VSC)
 <li>Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller3.java</li>
 <li>Punto 4: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_1/Taller4.java</li>
 
+
+Taller 2 (Hecho con VSC)
+<li>Punto 3: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_2/Taller3.java</li>
+<li>Punto 4: https://github.com/Carlos-Ballesteros/prog_2_02220131024_A_2023/blob/main/Taller_2/Taller4.java</li>
